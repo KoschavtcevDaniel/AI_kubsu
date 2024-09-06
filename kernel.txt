@@ -1,0 +1,8 @@
+China (Beijing 2)
+install.packages('IRkernel')
+IRkernel::installspec(user=FALSE)
+если ошибка 
+install.packages("vctrs", repos="https://packagemanager.rstudio.com/cran/latest")
+после отработки повторяю
+IRkernel::installspec(user=FALSE)
+
